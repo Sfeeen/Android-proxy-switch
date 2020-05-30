@@ -5,7 +5,7 @@ Simple app to change your proxy, when doing this manual from your settings this 
 Install fastproxyswitch.apk on android phone
 
 ## note
-The shell command for changing the proxy settings are ran using 'su', this is actually not need, just remove 'su' part from the code and rebuild the app if you don't have a rooted device.
+The shell command for changing the proxy settings are ran using 'su', this is actually not needed, just remove the 'su' part from the code and rebuild the app if you don't have a rooted device.
 
 ## Screenshot
-![screenshot](https://octodex.github.com/images/yaktocat.png)
+![screenshot](https://github.com/Sfeeen/Android-proxy-switch/blob/master/screenshot.png)
